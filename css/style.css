@@ -45,6 +45,10 @@ a:hover {
 	color:#FFF;
 }
 
+select:focus option.holder {
+  display: none;
+}
+
 /*-----------------------
 	Title Attributes
 ------------------------*/
